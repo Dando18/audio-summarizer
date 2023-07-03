@@ -1,0 +1,5 @@
+alive-progress
+yt-dlp
+whisper-cpp-python
+openai
+tiktoken
